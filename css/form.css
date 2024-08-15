@@ -1,0 +1,56 @@
+a{
+    color: green;
+}
+button,a{
+color:aqua;
+}
+form>div{
+    color:blue;
+}
+.input-email, .input-pass{
+    padding:5px,20px;
+    margin-top:2px;
+}
+form{
+    background-color: gray;
+    padding: 30px 40px;
+    width: 220px;
+}
+div img{
+    border-radius: 50%;
+    margin-left: 12px;
+    width: 200px;
+}
+#btn{
+    padding:6px 72x;
+    background-color: rgb(47, 72, 231);
+    margin-top:10px;
+}
+.link a{
+    font-size: 11px;
+    color:blue;
+    text-decoration: none;
+}
+
+
+/* độ ưu tiên trong css */
+#demo{
+    color:red;
+}
+.demo{
+    color :green;
+}
+[data-attr="demo"]{
+    color: yellow;
+}
+body div.demo a{
+    color: blue;
+}
+
+a{
+    color: brown;
+}
+
+.link a{
+    color: red;
+}
